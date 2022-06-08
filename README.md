@@ -10,11 +10,11 @@ To use this theme, first make sure you have `zsh` and [oh-my-zsh](https://github
 You can then download the `zish.zsh-theme` file into your `ZSH_CUSTOM` directory (`~/.oh-my-zsh/custom` by default):
 
 ```bash
-curl https://raw.githubusercontent.com/RubixDev/zish/main/zish.zsh-theme -o "${ZSH_CUSTOM:-${ZSH:-$HOME/.oh-my-zsh}/custom}/zish.zsh-theme"
+curl https://raw.githubusercontent.com/RubixDev/zish/main/zish.zsh-theme -o "${ZSH_CUSTOM:-${ZSH:-$HOME/.oh-my-zsh}/custom}/themes/zish.zsh-theme"
 ```
 **or**
 ```bash
-wget https://raw.githubusercontent.com/RubixDev/zish/main/zish.zsh-theme -O "${ZSH_CUSTOM:-${ZSH:-$HOME/.oh-my-zsh}/custom}/zish.zsh-theme"
+wget https://raw.githubusercontent.com/RubixDev/zish/main/zish.zsh-theme -O "${ZSH_CUSTOM:-${ZSH:-$HOME/.oh-my-zsh}/custom}/themes/zish.zsh-theme"
 ```
 
 Afterwards you can set `ZSH_THEME="zish"` in you `~/.zshrc`.
