@@ -17,4 +17,4 @@ curl https://raw.githubusercontent.com/RubixDev/zish/main/zish.zsh-theme -o "${Z
 wget https://raw.githubusercontent.com/RubixDev/zish/main/zish.zsh-theme -O "${ZSH_CUSTOM:-${ZSH:-$HOME/.oh-my-zsh}/custom}/themes/zish.zsh-theme"
 ```
 
-Afterwards you can set `ZSH_THEME="zish"` in you `~/.zshrc`.
+Afterwards you can set `ZSH_THEME="zish"` in your `~/.zshrc`.
