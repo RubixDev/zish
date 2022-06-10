@@ -1,6 +1,8 @@
 # zsh "zish" theme
 This is a basic theme for zsh based on `fish`s default look. It previously lived in my [linux stuff repo](https://github.com/RubixDev/HandyLinuxStuff).
 
+![screenshot](screenshot.png)
+
 Notable differences from fish are:
 - hostname is colored yellow even when not connected via ssh
 - the prompt arrow is not `>`, but `»`
